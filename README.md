@@ -1,2 +1,0 @@
-# Haymarket
-My First Project
