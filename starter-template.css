@@ -69,14 +69,18 @@ body {
 /* FOOTER FORMATTING*/
 
 /* Set the fixed height of the footer here */
-#footer {
+.footer {
   position: relative;
   bottom: 0;
-  width: 110%;
+  width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #00b200;
+  padding: 0px 0px 0px 0px;
 }
+
+/*.panel-footer{padding:0px 0px;background-color:#f5f5f5;border-top:1px solid #ddd;border-bottom-right-radius:3px;border-bottom-left-radius:3px}
+*/
 
 /* END FOOTER FORMATTING*/
 
