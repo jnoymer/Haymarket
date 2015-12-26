@@ -1,6 +1,9 @@
 body {
   padding-top: 50px;
 }
+
+/* NAVBAR FORMATTING*/
+
 .navbar-default {
   background-color: #00b200;
   border-color: #ffa500;
@@ -60,6 +63,23 @@ body {
     background-color: #ffa500;
   }
 }
+
+/* END NAVBAR FORMATTING*/
+
+/* FOOTER FORMATTING*/
+
+/* Set the fixed height of the footer here */
+#footer {
+  position: relative;
+  bottom: 0;
+  width: 110%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #00b200;
+}
+
+/* END FOOTER FORMATTING*/
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
