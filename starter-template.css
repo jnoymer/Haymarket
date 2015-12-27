@@ -79,11 +79,18 @@ body {
 }
 /* END NAVBAR FORMATTING*/
 
+/* From http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page */
+#container {
+   min-height:100%;
+   position:relative;
+}
+
+
 /* FOOTER FORMATTING*/
 
 /* Set the fixed height of the footer here */
 #footer {
-  position: relative;
+  position: absolute;
   bottom: 0;
   width: 100%;
   height: 60px;
